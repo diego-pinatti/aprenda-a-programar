@@ -1,0 +1,5 @@
+var nome = 'Diego'
+var email = 'diego.pinatti87@gmail.com'
+var profissao = 'analista de configuração'
+var idade = '35 anos'
+var lugar = 'Japão'
