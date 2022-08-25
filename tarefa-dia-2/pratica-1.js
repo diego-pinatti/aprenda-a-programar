@@ -4,4 +4,4 @@ var profissao = 'analista de configuração'
 var idade = '35'
 var lugar = 'Japão'
 
-console.log(`Seu nome é ${nome}, seu email é ${email}. Ele trabalha como ${profissao} e tem ${idade} anos. Ele sonha em conhecer o ${lugar} algum dia.`)
+console.log(`Olá, ${nome}! Somos aqui da agência de turismo Viagem dos Sonhos. Estamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para ${lugar}. Confirma pra gente alguns dados? A sua idade é ${idade}, você é ${profissao} e o seu email é ${email}? Ficamos no aguardo. Muito obrigado e boa viagem! :D`)
